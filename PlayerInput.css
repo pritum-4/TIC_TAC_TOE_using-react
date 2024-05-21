@@ -1,0 +1,31 @@
+/* src/PlayerInput.css */
+.player-input {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .player-input div {
+    margin-bottom: 10px;
+  }
+  
+  .player-input input {
+    margin-left: 10px;
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  .player-input button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .player-input button:hover {
+    background-color: #45a049;
+  }
+  
